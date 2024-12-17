@@ -112,3 +112,5 @@ source $ZSH/oh-my-zsh.sh
 
 # setup anaconda
 export PATH="/opt/homebrew/anaconda3/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
+
